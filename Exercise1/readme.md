@@ -12,3 +12,11 @@ Written by Jelly Lee, Feb 27th, 2020.
 这一节的新东西主要是先验分布和后验分布，然后就是回顾统计推断的知识。整体来说难度不大，但是回顾一些知识，动动手，还是很有必要的。
 
 Jelly Lee, 2020年2月27日
+
+
+
+
+# Click Here
+
+<https://github.com/liziyue17/Bayesian-Statistics-by-Laisheng-Wei/edit/master/Exercise1/>
+
