@@ -6,7 +6,7 @@ The solution of Bayesian Statistics with derivations
 
 ### Exercise 1
 
-<https://github.com/liziyue17/Bayesian-Statistics-by-Laisheng-Wei/blob/master/Exercise1/Bayesian%20exercise%201.pdf>
+<https://github.com/liziyue17/Bayesian-Statistics-by-Laisheng-Wei/blob/master/Exercise1/readme.md>
 
 
 ### Exercise 2
