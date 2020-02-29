@@ -15,3 +15,7 @@ The solution of Bayesian Statistics with derivations
 - [第二次练习图片版本 Picture Version](Exercise2/readme.md)
 
 - [第二次练习pdf版本 pdf Version](https://github.com/liziyue17/Bayesian-Statistics-by-Laisheng-Wei/raw/master/Exercise2/Bayesian%20exercise%202.pdf)
+
+### Exercise 3
+
+- [第三次练习图片版本 Picture Version](Exercise3/readme.md)
