@@ -14,6 +14,17 @@ Written by Jelly Lee, Feb 27th, 2020.
 Jelly Lee, 2020年2月27日
 
 
+![10](Bayesian exercise1_1.jpg)
+![10](Bayesian exercise1_2.jpg)
+![10](Bayesian exercise1_3.jpg)
+![10](Bayesian exercise1_4.jpg)
+![10](Bayesian exercise1_5.jpg)
+![10](Bayesian exercise1_6.jpg)
+![10](Bayesian exercise1_7.jpg)
+![10](Bayesian exercise1_8.jpg)
+![10](Bayesian exercise1_9.jpg)
+![10](Bayesian exercise1_10.jpg)
+
 
 
 # Click Here To Get Solutions 点击下方获取答案
