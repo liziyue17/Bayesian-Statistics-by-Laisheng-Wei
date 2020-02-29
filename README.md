@@ -6,13 +6,12 @@ The solution of Bayesian Statistics with derivations
 
 ### Exercise 1
 
-<https://github.com/liziyue17/Bayesian-Statistics-by-Laisheng-Wei/blob/master/Exercise1/readme.md>
+- [第一次练习图片版本 Picture Version](Exercise1/readme.md)
 
+- [第一次练习pdf版本 pdf Version](Exercise1/Bayesian exercise 1.pdf)
 
 ### Exercise 2
 
-<https://github.com/liziyue17/Bayesian-Statistics-by-Laisheng-Wei/blob/master/Exercise2/readme.md>
+- [第二次练习图片版本 Picture Version](Exercise2/readme.md)
 
-
-
-本页面最后更改时间：2020年2月28日19：38
+- [第二次练习pdf版本 pdf Version](Exercise2/Bayesian exercise 2.pdf)
