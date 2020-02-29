@@ -9,6 +9,7 @@ Written by Jelly Lee, Feb 29th, 2020.
 
 我们学习了怎样计算先验分布。在我看来，做这些练习题是非常有必要的！
 
+Jelly Lee, 2020年2月29日
 
 
 # Click Here To Get Solutions 点击下方获取答案
