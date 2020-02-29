@@ -35,8 +35,5 @@ Jelly Lee, 2020年2月29日
 
 ![picture11](Bayesian exercise2_11.jpg)
 
-
-# Click Here To Get Solutions 点击下方获取答案
-
-<https://github.com/liziyue17/Bayesian-Statistics-by-Laisheng-Wei/raw/master/Exercise2/Bayesian%20exercise%202.pdf>
+# Click [Here](https://github.com/liziyue17/Bayesian-Statistics-by-Laisheng-Wei/raw/master/Exercise2/Bayesian%20exercise%202.pdf) To Get Solutions 点击[这里](https://github.com/liziyue17/Bayesian-Statistics-by-Laisheng-Wei/raw/master/Exercise2/Bayesian%20exercise%202.pdf)获取答案
 
