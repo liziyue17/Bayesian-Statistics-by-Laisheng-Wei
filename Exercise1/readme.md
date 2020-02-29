@@ -38,5 +38,5 @@ Jelly Lee, 2020年2月27日
 
 # Click Here To Get Solutions 点击下方获取答案
 
-<https://github.com/liziyue17/Bayesian-Statistics-by-Laisheng-Wei/blob/master/Exercise1/Bayesian%20exercise%201.pdf>
+<https://github.com/liziyue17/Bayesian-Statistics-by-Laisheng-Wei/raw/master/Exercise1/Bayesian%20exercise%201.pdf>
 
