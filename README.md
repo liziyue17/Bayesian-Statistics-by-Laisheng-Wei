@@ -19,3 +19,15 @@ The solution of Bayesian Statistics with derivations
 ### Exercise 3
 
 - [第三次练习图片版本 Picture Version](Exercise3/readme.md)
+
+
+
+
+### 更新时间预计
+
+第一次练习：已经更新
+第二次练习：已经更新
+第三次练习：3月8日
+第四次练习：3月22日
+第五次练习：4月5日
+第六次练习：暂不计划更新
